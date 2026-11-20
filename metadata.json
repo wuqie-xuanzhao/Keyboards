@@ -1,0 +1,8 @@
+{
+  "name": "KeyForge 3D — 3D 键盘建模与蓝图键位编辑器",
+  "description": "面向 C++ 游戏开发的真 3D 机械键盘建模与蓝图节点式键位绑定编辑器，支持多款 3D 键盘模型交互与导出、按键实时触发预览及多层级嵌套 .cfg 配置文件生成。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
